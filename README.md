@@ -17,7 +17,7 @@ Once you have installed the Tic-tac-toe game component in your Salesforce org, y
 To play the game, simply click on any empty cell in the grid to place your mark. The game will automatically switch between players and determine the winner once three marks are in a row. You can reset the game at any time by clicking the "Reset" button.
 
 <h2>Credits</h2>
-This implementation of Tic-tac-toe with Lightning Web Components was created by [Your Name Here] and is licensed under the MIT License. Feel free to use and modify the code as needed.
+This implementation of Tic-tac-toe with Lightning Web Components and is licensed under the MIT License. Feel free to use and modify the code as needed.
 
 <h2>Contact</h2>
 If you have any questions or comments about this implementation, please feel free to contact me at <b>ilakhan1947@gmail.com</b>.
