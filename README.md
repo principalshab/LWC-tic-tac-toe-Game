@@ -20,6 +20,6 @@ To play the game, simply click on any empty cell in the grid to place your mark.
 This implementation of Tic-tac-toe with Lightning Web Components was created by [Your Name Here] and is licensed under the MIT License. Feel free to use and modify the code as needed.
 
 <h2>Contact</h2>
-If you have any questions or comments about this implementation, please feel free to contact me at ilakhan1947@gmail.com.
+If you have any questions or comments about this implementation, please feel free to contact me at <b>ilakhan1947@gmail.com</b>.
 
 More info please read blog :- https://cutt.ly/f4WZSZQ 
